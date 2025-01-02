@@ -10,16 +10,11 @@ Challenges are viewed as opportunities for growth and innovation, with a focus o
 
 ⚡ Fun Fact: I find joy in solving problems and making things work :)
 
-
-## 📫 Reach me at:
-[**hazemaqbadran@gmail.com**](mailto:hazemaqbadran@gmail.com)
-
+📫 Reach me at:
+Email: hazemaqbadran@gmail.com
+WhatsApp: Click to chat
 ء
 ---
-
----
-
-
 
 ## 🛠️ Tech Stack
 
