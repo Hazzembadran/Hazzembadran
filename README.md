@@ -1,19 +1,22 @@
+## About Me
 
-# Hazem Badran
-
-### 🌱 Full Stack Node Js
-
----
-
-## 📫 Reach me at:
-[**hazemaqbadran@gmail.com**](mailto:hazemaqbadran@gmail.com)
+I am a passionate Full Stack Developer who loves learning and building impactful applications. My skills range across both front-end and back-end development, and I’m always keen to dive into new technologies and challenges. Let's connect and collaborate!
 
 
 ---
 
 ⚡ Fun Fact: I find joy in solving problems and making things work :)
 
+
+## 📫 Reach me at:
+[**hazemaqbadran@gmail.com**](mailto:hazemaqbadran@gmail.com)
+
+ء
 ---
+
+---
+
+
 
 ## 🛠️ Tech Stack
 
@@ -23,11 +26,6 @@
   </a>
 </p>
 
----
-
-## About Me
-
-I am a passionate Full Stack Developer who loves learning and building impactful applications. My skills range across both front-end and back-end development, and I’m always keen to dive into new technologies and challenges. Let's connect and collaborate!
 
 ---
 
