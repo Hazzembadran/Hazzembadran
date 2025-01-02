@@ -34,7 +34,7 @@ I am a passionate Full Stack Developer who loves learning and building impactful
 ## 📌 Find me on:
 
 - [GitHub](https://github.com/HazemBadran)
-- [LinkedIn](https://www.linkedin.com/in/hazem-badran/) *(Currently unavailable due to the ongoing situation)*
+- [LinkedIn](https://www.linkedin.com) *(Currently unavailable due to the ongoing situation)*
 - [Twitter](https://twitter.com/HazemBadran)
 
 
