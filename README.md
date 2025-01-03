@@ -24,7 +24,6 @@ Challenges are viewed as opportunities for growth and innovation, with a focus o
   </a>
 </p>
 
-
 ---
 
 ## 📌 Find me on:
