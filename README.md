@@ -31,7 +31,7 @@ Challenges are viewed as opportunities for growth and innovation, with a focus o
 - [GitHub](https://github.com/HazemBadran)
 - [YouTube](https://www.youtube.com/@hazemaq)
 - [LinkedIn](https://www.linkedin.com) *(Currently unavailable due to the ongoing situation)*
-- [Twitter](https://twitter.com/HazemBadran)
+- [Twitter](https://x.com/hazzembadran)
 <!--
 ## Hi there 👋
 
