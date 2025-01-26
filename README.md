@@ -27,11 +27,11 @@ Challenges are viewed as opportunities for growth and innovation, with a focus o
 ---
 
 ## 📌 Find me on:
-- [LinkedIn](www.linkedin.com/in/hazzem-badran)
+- [LinkedIn](www.linkedin.com/in/hazzem-badran) 🌱
 - [GitHub](https://github.com/HazemBadran)
 - [YouTube](https://www.youtube.com/@hazemaq)
 - [Twitter](https://x.com/hazzembadran)
-🌱
+
 <!--  
 ## Hi there 👋
 
